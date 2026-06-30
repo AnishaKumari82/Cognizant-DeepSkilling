@@ -28,4 +28,4 @@ cd RetailInventory
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer 
 dotnet add package Microsoft.EntityFrameworkCore.Design
 
-This folder will contain the complete solution for Lab 1 of the Cognizant Digital Nurture – .NET FSE Deepskilling Program.
+lab1Solution.md will contain the complete solution for Lab 1 of the Cognizant Digital Nurture – .NET FSE Deepskilling Program.
