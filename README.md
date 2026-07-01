@@ -185,7 +185,7 @@ Through this deepskilling program, I gained practical experience in:
 | Data Structures & Algorithms | ✅ Completed |
 | Advanced SQL | ✅ Completed |
 | NUnit & Moq | ✅ Completed |
-| Entity Framework Core | ⏳ In Progress |
+| Entity Framework Core | ✅ Completed |
 | ASP.NET Core Web API | ⏳ In Progress |
 | Microservices | ⏳ Pending |
 | React | ⏳ Pending |
