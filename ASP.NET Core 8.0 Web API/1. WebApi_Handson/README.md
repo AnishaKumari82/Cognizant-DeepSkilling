@@ -1,4 +1,5 @@
 # Lab 1: First Web API using ASP.NET Core
+Status: ✅ Completed
 
 ## Objective
 

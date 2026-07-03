@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab-3-Using-EF-Core-CLI-to-Create-and-Apply-Migrations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1edf4076683b0c5c47703bc2f64dc914a966532b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47cfd31a38ee3e6010d8c6dd22e8e081fa236580")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab-3-Using-EF-Core-CLI-to-Create-and-Apply-Migrations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab-3-Using-EF-Core-CLI-to-Create-and-Apply-Migrations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
