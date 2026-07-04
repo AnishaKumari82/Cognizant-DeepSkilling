@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab-2-Setting-Up-the-DbContext-for-a-Retail-Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1edf4076683b0c5c47703bc2f64dc914a966532b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11766704c23d0b27bf286af4607343dd163022a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab-2-Setting-Up-the-DbContext-for-a-Retail-Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab-2-Setting-Up-the-DbContext-for-a-Retail-Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

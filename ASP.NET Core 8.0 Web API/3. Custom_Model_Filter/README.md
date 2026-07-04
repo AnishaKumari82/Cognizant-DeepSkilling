@@ -1,4 +1,5 @@
 # Lab 3: Custom Model, Authorization Filter & Exception Filter
+Status: ✅ Completed
 
 ## Objective
 

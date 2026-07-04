@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\2. Swagger_Postman\\2. Swagger_Postman.csproj": {}
+    "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\3. Custom_Model_Filter\\3. Custom_Model_Filter.csproj": {}
   },
   "projects": {
-    "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\2. Swagger_Postman\\2. Swagger_Postman.csproj": {
+    "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\3. Custom_Model_Filter\\3. Custom_Model_Filter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\2. Swagger_Postman\\2. Swagger_Postman.csproj",
-        "projectName": "2. Swagger_Postman",
-        "projectPath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\2. Swagger_Postman\\2. Swagger_Postman.csproj",
+        "projectUniqueName": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\3. Custom_Model_Filter\\3. Custom_Model_Filter.csproj",
+        "projectName": "3. Custom_Model_Filter",
+        "projectPath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\3. Custom_Model_Filter\\3. Custom_Model_Filter.csproj",
         "packagesPath": "C:\\Users\\anish\\.nuget\\packages\\",
-        "outputPath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\2. Swagger_Postman\\obj\\",
+        "outputPath": "C:\\Desktop\\placementseries\\CogniZant\\Cognizant-DeepSkilling\\ASP.NET Core 8.0 Web API\\3. Custom_Model_Filter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anish\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,9 +46,9 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
-            "Microsoft.OpenApi": {
+            "Microsoft.AspNetCore.Mvc.WebApiCompatShim": {
               "target": "Package",
-              "version": "[2.7.5, )"
+              "version": "[2.3.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

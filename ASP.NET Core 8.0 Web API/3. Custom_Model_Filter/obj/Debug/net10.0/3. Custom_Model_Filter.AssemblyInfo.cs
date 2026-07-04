@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3. Custom_Model_Filter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f05897ee7d1aaa4883a6c0e44d557f9098d2511")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11766704c23d0b27bf286af4607343dd163022a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("3. Custom_Model_Filter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3. Custom_Model_Filter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
