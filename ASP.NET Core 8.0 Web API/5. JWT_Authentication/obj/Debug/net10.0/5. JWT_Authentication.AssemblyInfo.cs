@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5. JWT_Authentication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+533067adf296a01bc9ecd67945e8b561b00f9c35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc9688ada2867c0ff71dac0c139e5d0403f571ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("5. JWT_Authentication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5. JWT_Authentication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

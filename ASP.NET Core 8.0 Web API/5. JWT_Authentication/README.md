@@ -364,22 +364,22 @@ GET /api/Employee
 
 ### Authorized Request (Valid Token)
 
-![Authorized](image-15.png)
+![Authorized](image-5.png)
 ### Invalid Token
 
-![Invalid Token](image-14.png)
+![Invalid Token](image-4.png)
 
 ### Expired Token
 
-![Expired Token](image-13.png)
+![Expired Token](image-6.png)
 
 ### Invalid Role (403 Forbidden)
 
-![Role Validation](image-6.png)
+![Role Validation](image-7.png)
 
 ### Valid Role (200 OK)
 
-![Authorized Role](image-12.png)
+![Authorized Role](image-8.png)
 ---
 
 
