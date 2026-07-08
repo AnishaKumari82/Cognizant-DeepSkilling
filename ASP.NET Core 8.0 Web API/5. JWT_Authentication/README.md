@@ -214,11 +214,11 @@ GET /api/Employee
 
 ### JWT Token Generation
 
-![JWT Token](image-1.png)
+![JWT Token](image-2.png)
 
 ### Unauthorized Request (Without Token)
 
-![Unauthorized](image-2.png)
+![Unauthorized](image-1.png)
 
 ### Authorized Request (Valid Token)
 
