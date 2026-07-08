@@ -214,15 +214,15 @@ GET /api/Employee
 
 ### JWT Token Generation
 
-![JWT Token](image-2.png)
+![JWT Token](image-9.png)
 
 ### Unauthorized Request (Without Token)
 
-![Unauthorized](image-1.png)
+![Unauthorized](image-2.png)
 
 ### Authorized Request (Valid Token)
 
-![Authorized](image-3.png)
+![Authorized](image-5.png)
 
 ### Invalid Token
 
@@ -230,15 +230,15 @@ GET /api/Employee
 
 ### Expired Token
 
-![Expired Token](image-5.png)
+![Expired Token](image-6.png)
 
 ### Invalid Role (403 Forbidden)
 
-![Role Validation](image-6.png)
+![Role Validation](image-7.png)
 
 ### Valid Role (200 OK)
 
-![Authorized Role](image-7.png)
+![Authorized Role](image-8.png)
 
 ---
 
