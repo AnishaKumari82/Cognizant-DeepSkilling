@@ -188,7 +188,7 @@ Through this deepskilling program, I gained practical experience in:
 | Entity Framework Core | ✅ Completed |
 | ASP.NET Core Web API | ✅ Completed |
 | Microservices | ✅ Completed |
-| React | ⏳ Pending |
+| React | ✅ Completed |
 | Git | ⏳ Pending |
 | Angular | ⏳ Pending |
 
